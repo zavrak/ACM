@@ -1,0 +1,5 @@
+C:\Users\Merve Zavrak\Desktop\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+C:\Users\Merve Zavrak\Desktop\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\Users\Merve Zavrak\Desktop\ACM\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.cache
+C:\Users\Merve Zavrak\Desktop\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+C:\Users\Merve Zavrak\Desktop\ACM\ACM.BL\obj\Debug\ACM.BL.pdb

@@ -1,0 +1,15 @@
+C:\Users\Merve Zavrak\Desktop\ACM\Test\ACM.BLTest\obj\Debug\ACM.BLTest.csprojAssemblyReference.cache
+C:\Users\Merve Zavrak\Desktop\ACM\Test\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Merve Zavrak\Desktop\ACM\Test\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Merve Zavrak\Desktop\ACM\Test\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Merve Zavrak\Desktop\ACM\Test\ACM.BLTest\bin\Debug\ACM.BLTest.dll
+C:\Users\Merve Zavrak\Desktop\ACM\Test\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
+C:\Users\Merve Zavrak\Desktop\ACM\Test\ACM.BLTest\bin\Debug\ACM.BL.dll
+C:\Users\Merve Zavrak\Desktop\ACM\Test\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Merve Zavrak\Desktop\ACM\Test\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Merve Zavrak\Desktop\ACM\Test\ACM.BLTest\bin\Debug\ACM.BL.pdb
+C:\Users\Merve Zavrak\Desktop\ACM\Test\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Merve Zavrak\Desktop\ACM\Test\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Merve Zavrak\Desktop\ACM\Test\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CopyComplete
+C:\Users\Merve Zavrak\Desktop\ACM\Test\ACM.BLTest\obj\Debug\ACM.BLTest.dll
+C:\Users\Merve Zavrak\Desktop\ACM\Test\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
